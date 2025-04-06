@@ -42,4 +42,4 @@ A simple and responsive landing page for a tailor service built with **HTML**, *
     cd tailor-service-landing-page
     ```
 
-# HAPPY CODING! 😊
+## HAPPY CODING! 😊
